@@ -3,7 +3,7 @@
 ## Notes:
 <div>
   <ul>
-    <li>Cloudflare pages allows hosting static websites, which perfectly suits our needs for the class.</li>
+    <li>Cloudflare pages allows hosting websites using a feature called Pages, which perfectly suits our needs for the class.</li>
   </ul>
 </div>
 
