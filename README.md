@@ -108,8 +108,8 @@
 ## Part III: Finishing Up
 
 ### Step 1: Verify Changes
-#### On the Cloudflare page you kept open, verify the changes.
+#### On the Cloudflare page you kept open, verify the changes
 
-###### When your domain is Active, you will: Receive an email from Cloudflare, your domain will have a status of Active on the Websites page of your account.
+##### When your domain is Active, you will: Receive an email from Cloudflare, your domain will have a status of Active on the Websites page of your account.
 
 ----
