@@ -22,7 +22,7 @@
 
 ## Step 2: 
 ### Press ```Create Application```
-
+#### Note: The button for creating an app may not show up for you, if you have no previous apps. In that case, proceed with the next steps.
 <img src="./Images/Step2.png"/>
 
 ## Step 3: 
