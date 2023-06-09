@@ -48,6 +48,8 @@
 
 <img src="./Images/Step6.png"/>
 
+----
+
 # Custom Domain with Cloudflare Pages (Optional)
 
 ## Part I: Add Domain to Cloudflare
