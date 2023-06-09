@@ -1,4 +1,4 @@
-# TA-FreeWebHostingGuide
+# Free Web Hosting with Cloudflare Pages
 
 ## Notes:
 <div>
